@@ -1,4 +1,4 @@
-key = input("Enter key")
+key = input("Enter key : ")
 key = key.replace(" ", "")
 key = key.upper()
 
